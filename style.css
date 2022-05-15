@@ -1,0 +1,161 @@
+.resimSlider {
+    margin-top: 30px;
+	height: 600px;
+    
+}
+
+body {
+    padding-top:50px;
+	font-family: 'Raleway', sans-serif;
+	margin:0;
+	
+}
+
+.hakkimda{
+    background:#AAA492;
+	font-style: italic;
+	color: #1A374D;
+    font-weight: 200;
+}
+
+ .login{
+    width: 100%;
+    padding: 10px;
+    height: auto;
+    margin: auto;
+    padding-top: 10%;
+    padding-bottom: 15%;
+    background:#AAA492;
+    text-align: center;
+    
+}
+.sehir{
+    background: #AAA492;
+    font-style: italic;
+    color:#0f0f0f;
+}
+
+
+.takim {
+    background: #AAA492;
+    font-style: italic;
+    color:#0f0f0f;
+}
+
+.iletisim {
+    background: #AAA492;
+    width:auto;
+	height:auto;
+	font-family: Arial;
+	margin:0 auto;
+	padding:20px;
+}
+
+.ayrac {
+    border: none;
+    border-top: 3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+
+}
+.ozgecmis{
+    background: #AAA492;
+}
+
+.igri {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+ .ibeyaz {
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid white;
+    background-color: white;
+} 
+
+.seffaflık>img:hover {
+    opacity: 0.8;
+
+}
+
+.fotograflar {
+    height: 300px;
+
+}
+
+.btnortala {
+    margin-left: 71%;
+}
+
+bosluk {
+    margin-bottom: 0px;
+}
+
+.color{
+    background-color: blue ;
+}
+
+.renk{
+    background-color:peru;
+}
+
+.kradio{
+    margin:5px;
+    margin-left: -2%;
+}
+
+.kcinsiyet{
+    margin-left: -5%;
+}
+
+.footer{
+    bottom: 0px;
+    padding: 30px;
+    left: 0px;
+    width: 100%;
+    height: 200px;
+    background-color: #000;
+    color:khaki;
+} 
+
+.sehrim{
+    background:#AAA492;;
+}
+.ilgialanlarim{
+    background: #AAA492;
+    text-align: center;
+    width:auto;
+	height:auto;
+	color:#1A374D;
+	font-family: Arial;
+	margin: auto;
+	padding:50px;
+	font-style: italic;
+
+}
+
+#sliderayar{
+    margin-left: 25%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
